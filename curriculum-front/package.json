@@ -13,7 +13,7 @@
     "axios": "^0.27.2",
     "core-js": "^2.6.5",
     "register-service-worker": "^1.6.2",
-    "vue": "^2.6.10",
+    "vue": "^2.7.14",
     "vue-infinite-loading": "2.4.5",
     "vue-router": "^3.0.3",
     "vue-spinner": "1.0.4",
